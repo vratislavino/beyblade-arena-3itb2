@@ -1,31 +1,32 @@
-# beyblade-arena-3itb2
+# Teams and Responsibilities
 
-[Team]
-3D Modeling
- 	- Mičán
- 	- Zahradník Martin
- 	- Stiburek
- 	- Zářecký
+## 3D Modeling
+- Mičán
+- Zahradník Martin
+- Stiburek
+- Zářecký
 
-2D Grafika (UI)
- 	- Králík
+## 2D Grafika (UI)
+- Králík
 
-Programování 1 + TL - pohyb, vlastností, buffy, funkční části ve hře
-	- Vinš
-	- Toman
-	- Zahradník
+## Programování 1 + TL 
+### (pohyb, vlastností, buffy, funkční části ve hře)
+- Vinš
+- Toman
+- Zahradník
 
-Programování 2 + TL - shop, odměny, odemykání levelů, modifikátory
-	- Nosek
-	- Nedbal
-	- Kreibich
-	- Chládek
+## Programování 2 + TL 
+### (shop, odměny, odemykání levelů, modifikátory)
+- Nosek
+- Nedbal
+- Kreibich
+- Chládek
 
-Spojování v Unity
-	- Zbořil
+## Spojování v Unity
+- Zbořil
 
-Zvuky
-	- Šorf
+## Zvuky
+- Šorf
 
-World/Level designer (s výstupy)
- 	- Navrátil
+## World/Level designer (s výstupy)
+- Navrátil
