@@ -8,6 +8,7 @@
 
 ## 2D Grafika (UI)
 - Králík
+- Nežerný
 
 ## Programování 1 + TL 
 ### (pohyb, vlastností, buffy, funkční části ve hře)
