@@ -30,4 +30,12 @@ public class Stamina : MonoBehaviour
             this.stamina = amount;
         }
     }
+
+    public void SetMaxStamina(double amount)
+    {
+        if (amount > 0)
+        {
+            this.maxStamina = amount;
+        }
+    }
 }

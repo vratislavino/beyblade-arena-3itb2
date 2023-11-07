@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class Vlastnosti : MonoBehaviour
 {
+    [SerializeField] private double modifierZtratyStaminyZaCas = 1;
     private Rychlost rychlost;
     private Stamina stamina;
     private Defense defense;
@@ -19,11 +20,9 @@ public class Vlastnosti : MonoBehaviour
 
     private void Update()
     {
-        stamina.DecreaseStamina(Time.deltaTime/15);
+        stamina.DecreaseStamina(Time.deltaTime/(1 + modifierZtratyStaminyZaCas * 14));
         rychlost.CalcAndSetSpeed(stamina);
     }
-
-    
     
     public static double CalculateDamage(Damage damage, Defense defense)
         {
