@@ -33,22 +33,12 @@
         },
         {
             "userAdded": false,
-            "type": "UnityEngine.GameObject",
-            "defaultInstantiationMode": 0
-        },
-        {
-            "userAdded": false,
             "type": "UnityEditor.LightingDataAsset",
             "defaultInstantiationMode": 0
         },
         {
             "userAdded": false,
             "type": "UnityEngine.LightingSettings",
-            "defaultInstantiationMode": 0
-        },
-        {
-            "userAdded": false,
-            "type": "UnityEngine.Material",
             "defaultInstantiationMode": 0
         },
         {
@@ -63,22 +53,12 @@
         },
         {
             "userAdded": false,
-            "type": "UnityEngine.PhysicsMaterial2D",
-            "defaultInstantiationMode": 0
-        },
-        {
-            "userAdded": false,
             "type": "UnityEngine.Rendering.PostProcessing.PostProcessProfile",
             "defaultInstantiationMode": 0
         },
         {
             "userAdded": false,
             "type": "UnityEngine.Rendering.PostProcessing.PostProcessResources",
-            "defaultInstantiationMode": 0
-        },
-        {
-            "userAdded": false,
-            "type": "UnityEngine.Rendering.VolumeProfile",
             "defaultInstantiationMode": 0
         },
         {
